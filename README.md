@@ -1,4 +1,5 @@
 Swiggy Restaurant Performance Analysis Dashboard
+
 Business Context
 Food delivery platforms like Swiggy operate across multiple cities with varying demand, pricing, and service performance. This dashboard was developed to analyze restaurant-level and city-wise performance metrics to support data-driven operational and strategic decisions.
 
