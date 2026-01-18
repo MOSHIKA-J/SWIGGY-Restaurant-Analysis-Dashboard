@@ -1,25 +1,27 @@
-# Swiggy Restaurant Analysis Dashboard
+Swiggy Restaurant Performance Analysis Dashboard
+Business Context
+Food delivery platforms like Swiggy operate across multiple cities with varying demand, pricing, and service performance. This dashboard was developed to analyze restaurant-level and city-wise performance metrics to support data-driven operational and strategic decisions.
 
-## Overview
-This project analyzes Swiggy restaurant data using Power BI to identify city-wise demand patterns, delivery performance, pricing trends, and customer engagement.
+Project Objective
+To evaluate restaurant performance across cities by analyzing demand patterns, delivery efficiency, pricing trends, and customer engagement using interactive data visualizations.
 
-## Objectives
-- Analyze restaurant distribution across cities
-- Evaluate delivery time performance
-- Study pricing patterns
-- Assess customer ratings and reviews
+Key Metrics Analyzed
+•	Total number of restaurants and cities covered
+•	Average delivery time by city
+•	Average pricing trends
+•	Customer ratings and review volume
+•	City-wise restaurant density and performance comparison
 
-## Key KPIs
-- Total Restaurants
-- Total Cities Covered
-- Average Delivery Time
-- Average Price
-- Total Customer Reviews
-- Average Rating
+Data Preparation & Tools
+•	Cleaned and structured raw data using Excel
+•	Built interactive dashboards using Power BI
+•	Applied filters and drill-downs for city-level and restaurant-level analysis
 
-## Tools & Technologies
-- Power BI
-- Excel (data cleaning)
+Key Insights
+•	Certain cities showed higher restaurant density and customer engagement, indicating strong demand concentration.
+•	Variations in average delivery time highlighted operational efficiency differences across regions.
+•	Pricing and ratings trends helped identify high-performing and underperforming locations.
 
-## Insights
-The dashboard enables quick comparison of restaurant density, pricing, and delivery efficiency across cities, helping identify high-demand and underperforming locations.
+Outcome
+This dashboard demonstrates my ability to transform structured data into decision-ready insights using Power BI, supporting business analysis and performance evaluation.
+
