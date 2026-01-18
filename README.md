@@ -19,7 +19,6 @@ This project analyzes Swiggy restaurant data using Power BI to identify city-wis
 
 ## Tools & Technologies
 - Power BI
-- SQL (data exploration)
 - Excel (data cleaning)
 
 ## Insights
